@@ -1,0 +1,2 @@
+# JYVideoPlayerAnimation
+仿照抖音视频主页面右下角音频播放动效。主要是CoreAnimation和UIBezierPath的使用。
