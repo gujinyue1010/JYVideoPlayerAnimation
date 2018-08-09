@@ -27,8 +27,6 @@
     moveAnimation.autoreverses = NO; // 不要逆方向做动画回去
     moveAnimation.repeatCount = MAXFLOAT;
     moveAnimation.calculationMode = kCAMediaTimingFunctionLinear;
-//    moveAnimation.removedOnCompletion = NO; // 在动画结束时不移除动画
-//    moveAnimation.fillMode = kCAFillModeForwards; // 始终保持最新的效果
     UIBezierPath *bezierPath = [UIBezierPath bezierPathWithArcCenter:CGPointMake(30, -10)
                                                               radius:80
                                                           startAngle:0.5 * M_PI
