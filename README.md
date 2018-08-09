@@ -3,7 +3,7 @@
 1. CoreAnimation主要涉及CABasicAnimation、CAKeyframeAnimation、CAAnimationGroup。其中涉及到的属性有position、transform.scale、transform.rotation.z、opacity。
 2. 自定义UIBezierPath, 作为position属性的移动路径。
 3. 动画举例:
-   、、、
+   ···
     CAKeyframeAnimation *scaleAnimation = [CAKeyframeAnimation animationWithKeyPath:@"transform.scale"];
     scaleAnimation.values   = @[[NSNumber numberWithFloat:0.3],
                                 [NSNumber numberWithFloat:1.1],
@@ -19,7 +19,7 @@
     scaleAnimation.duration  = 5.0;
     scaleAnimation.repeatCount = MAXFLOAT;
     scaleAnimation.autoreverses = NO;
-   、、、
+   ···
 
  <div align=center><img width="375" height="667" src="https://github.com/gujinyue1010/JYVideoPlayerAnimation/blob/master/运行效果/321.png"/></div>
  
