@@ -104,7 +104,6 @@
                                   [NSNumber numberWithFloat:1.0]];
     
     opacityAnimation.timingFunctions = @[[CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionLinear],
-                                       [CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionLinear],
                                        [CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionLinear]];
     opacityAnimation.duration  = 5.0;
     opacityAnimation.autoreverses = NO;
