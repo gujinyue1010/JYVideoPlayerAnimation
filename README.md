@@ -4,3 +4,4 @@
 2. 自定义UIBezierPath, 作为position属性的移动路径。
 
 3. <img src="https://github.com/gujinyue1010/JYVideoPlayerAnimation/blob/master/运行效果/123.png" width="375" height="667" alt="图片加载失败时，显示这段字"/>
+ <img src="https://github.com/gujinyue1010/JYVideoPlayerAnimation/blob/master/运行效果/123.png" width="375" height="667" alt="图片加载失败时，显示这段字"/>
