@@ -14,7 +14,6 @@
                                 [NSNumber numberWithFloat:1.0]];
     
     scaleAnimation.timingFunctions = @[[CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionLinear],
-                                       [CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionLinear],
                                        [CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionLinear]];
     scaleAnimation.duration  = 5.0;
     scaleAnimation.repeatCount = MAXFLOAT;
